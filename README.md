@@ -31,6 +31,7 @@ $ python baz.py
 
 ▪︎ akun cp login di chrome,lite juga bole
 
-▪︎ cari id target yang banyak temannya
+▪︎ cari id target yang temanya lebih 1k
 
-dikarenakan ini script gratis jadi hasilnya tidak sebagus script prem
+#
+▪︎ Disarankan Pakai Kartu Axis/3
