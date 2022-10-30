@@ -29,8 +29,6 @@ $ python baz.py
 
 ▪︎ on/of mode pesawat stiap 1k id cracknya
 
-▪︎ akun cp login di chrome,lite juga bole
-
 ▪︎ cari id target yang temanya lebih 1k
 
 ▪︎ disarankan pakai kartu 3/axis
