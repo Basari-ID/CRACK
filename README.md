@@ -27,10 +27,10 @@ $ python baz.py
 
 #NOTE
 
--on/of mode pesawat stiap 1k id cracknya
+▪︎ on/of mode pesawat stiap 1k id cracknya
 
--akun cp login di chrome,lite juga bole
+▪︎ akun cp login di chrome,lite juga bole
 
--cari id target yang banyak temannya
+▪︎ cari id target yang banyak temannya
 
-•dikarenakan ini script gratis jadi hasilnya tidak sebagus script prem•
+dikarenakan ini script gratis jadi hasilnya tidak sebagus script prem
