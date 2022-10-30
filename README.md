@@ -26,7 +26,11 @@ $ cd CRACK
 $ python baz.py
 
 #NOTE
+
 -on/of mode pesawat stiap 1k id cracknya
+
 -akun cp login di chrome,lite juga bole
+
 -cari id target yang banyak temannya
+
 •dikarenakan ini script gratis jadi hasilnya tidak sebagus script prem•
