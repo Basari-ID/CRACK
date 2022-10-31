@@ -31,4 +31,4 @@ $ python baz.py
 
 ▪︎ cari id target yang temanya lebih 1k
 
-▪︎ disarankan pakai kartu 3/axis
+▪︎ disarankan pakai kartu axis
